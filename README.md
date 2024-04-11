@@ -1,10 +1,10 @@
 # Husky Coin Tracker
-
-This repository contains the CS4550 final project for Isaac Sadhwani, Bryce Erickson, Harry Allex, Kevin Park and Patrick Buck. Our project is a crypto paper trading and portfolio app with an astro frontend and a go backend. Our database is pocketbase and interacts with our code using CRUD endpoints.  
+Husky Coin Tracker  is a crypto paper trading and portfolio app with an astro frontend and a go backend. The application complete with real time price updates, customizable graphs and account balance and transaction history. 
 
 ## Hosting 
 We purchased this domain and hosted it https://www.huskycointracker.com/
 
+Note: This domain is no longer active 
 
 ## How to Run Locally
 First, install the necessary node packages with  
@@ -25,23 +25,3 @@ npm run start-server
 
 Now in a seperate terminal window you can start the frontend with command 
 ``` npm start```
-
-## Page requirements
-#### Home page: 
- - Crypto dashboard page
-
-#### Search page 
-- Built inside of home page
-
-#### Profile page
-- Navigable by clicking the profile icon on the top right of the screen
-  
-#### Details page
-- Coin page, navigable by clicking on any coin on the dashboard
-  
-#### Login/register page
-- Navigable by clicking on the profile icon before logging in
-
-
-
-
